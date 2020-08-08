@@ -1,0 +1,25 @@
+{
+  "name": "nba-fandemic",
+  "version": "0.0.1",
+  "description": "Serverless functions to load NBA data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EZEDSEA/nba-fandemic.git"
+  },
+  "keywords": [
+    "nba",
+    "stats",
+    "fantasy",
+    "pandemic"
+  ],
+  "author": "HZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EZEDSEA/nba-fandemic/issues"
+  },
+  "homepage": "https://github.com/EZEDSEA/nba-fandemic#readme"
+}
